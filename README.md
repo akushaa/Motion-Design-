@@ -1,1 +1,1 @@
-<h1>Design ux/ui e front-edn</h1>
+<h1>Design ux/ui e front-end</h1>
